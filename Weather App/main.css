@@ -1,0 +1,28 @@
+body {
+    font-size: 60px;
+    font-family: "Lato", sans-serif;
+    padding-top: 60px;
+    color: #ffffff;
+    background-color: #121212;
+    cursor: default;
+}
+
+#container {
+    width: 80%;
+    max-width: 1000px;
+    margin: auto;
+    padding: 20px;
+}
+
+#tempUnit {
+    color: #5081e9;
+}
+
+#tempUnit:hover {
+    cursor: pointer;
+    color: #88adff;
+}
+
+.info {
+    color: #64b961;
+}
